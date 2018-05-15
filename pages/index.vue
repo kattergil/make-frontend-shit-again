@@ -13,7 +13,7 @@
       <Page4 />
     </section>
     <h1 class="center subtitle">
-      Inspiration Websites:
+      영감받은 웹사이트:
     </h1>
     <section class="container">
       <a 

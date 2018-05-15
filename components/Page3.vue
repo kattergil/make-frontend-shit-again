@@ -2,20 +2,20 @@
   <section class="container">
     <div class="top" />
     <ul>
-      <li>Remember FTP ? <img 
+      <li>FTP를(을) 기억하시나요? <img 
         width="150" 
         alt="ftp" 
         src="../assets/ftp.gif"></li>
-      <li>Remember Blink ? <img 
+      <li>Blink를(을) 기억하시나요? <img 
         width="200" 
         alt="blink" 
         src="../assets/blink.gif">
       </li>
-      <li>Remember HTML ? <img 
+      <li>HTML를(을) 기억하시나요? <img 
         width="150" 
         alt="html" 
         src="../assets/html.gif"></li>
-      <li>Remember jQuery ? <img 
+      <li>jQuery를(을) 기억하시나요? <img 
         width="150" 
         alt="jqury" 
         src="../assets/jquery.gif"></li>

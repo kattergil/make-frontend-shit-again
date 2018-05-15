@@ -1,18 +1,17 @@
 <template>
   <section class="container">
     <h1>
-      We used to make websites because it was fun and at a point we lost the way.
-      <br> We need to make dumb shit! Make useless stuff; make the web fun again!
+      우리는 웹사이트 만드는 것이 재미있어서 만들었으나, 어느 순간 길을 잃었습니다.
+      <br> 우리는 멍청한 쓰레기를 만들어야 합니다! 쓸모 없는 것을 만들고 웹을 다시 재미있게 만드세요!
     </h1>
     <div>
       <img 
         src="../assets/10.gif" 
         alt="heart">
-      <p>Website made by
-      <a href="https://twitter.com/NikkitaFTW ">Sara Vieira</a> at a Hackathon </p>
-      <p>Source code at
-        <a href="https://github.com/SaraVieira/make-frontend-shit-again ">GitHub</a>
+      <p><a href="https://twitter.com/NikkitaFTW ">Sara Vieira</a> 이 해커톤에서 제작함 </p>
+      <p>소스코드 : <a href="https://github.com/SaraVieira/make-frontend-shit-again ">GitHub</a>
       </p>
+      <p>번역 : <a href="https://fb.com/katter.gil">길범준</a></p>
     </div>
     <section class="badges">
       <img 

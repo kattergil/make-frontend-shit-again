@@ -11,7 +11,7 @@
           alt="spaceship">
       </h1>
       <section>
-        <marquee>Scroll down for awesomness | Scroll down for awesomness | Scroll down for awesomness |</marquee>
+        <marquee>스크롤하여 멋진 것들을 만나보세요~! | 스크롤하여 멋진 것들을 만나보세요*^^*  | 스크롤하여 멋진 것들을 만나보세용~ |</marquee>
         <img 
           width="30" 
           alt="scroll" 
@@ -19,7 +19,7 @@
       </section>
 
       <h2 class="counter">
-        You are user:
+        방문자 카운터 *^^*
       </h2>
       <a 
         href="http://www.cutercounter.com/" 
